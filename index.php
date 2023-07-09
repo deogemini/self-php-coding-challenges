@@ -14,4 +14,17 @@ function addition($a, $b){
 }
 
 
+// Examples
+// convert(5) ➞ 300
+
+// convert(3) ➞ 180
+
+// convert(2) ➞ 120
+
+function convert ($minutes){
+
+    return $minutes * 60;
+}
+
+
 ?>
